@@ -1,0 +1,19 @@
+{
+  "name": "grunt-livereload",
+  "version": "1.0.0",
+  "homepage": "https://github.com/anhuisunfei/grunt-livereload",
+  "authors": [
+    "anhuisunfei <1195255889@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zepto": "~1.1.6"
+  }
+}
